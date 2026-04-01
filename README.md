@@ -5,7 +5,7 @@ DigiTools is a high-performance, responsive, and interactive digital marketplace
 ---
 
 ## 🔗 Live Links
-- **Live Demo:** [https://b13-a6-digitaltool.netlify.app/](https://b13-a6-digitaltool.netlify.app/) **
+- **Live Demo:** [https://b13-assignment-06-digitaltoos.vercel.app/](https://b13-assignment-06-digitaltoos.vercel.app/) 
 - **GitHub Repository:** [https://github.com/towfiqurv360/B13-Assignment-06](https://github.com/towfiqurv360/B13-Assignment-06)
 
 ---
