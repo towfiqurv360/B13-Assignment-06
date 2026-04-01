@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Assistant",
+    "description": "Generate high-quality blog posts, emails, and ad copies in seconds using advanced AI models.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "popular",
+    "features": [
+      "Unlimited words generation",
+      "Built-in SEO optimization",
+      "Advanced grammar checker"
+    ],
+    "icon": "https://img.icons8.com/color/48/bot.png"
+  },
+  {
+    "id": 2,
+    "name": "Premium UI/UX Kit",
+    "description": "A massive collection of modern UI components and templates for your next big design project.",
+    "price": 59,
+    "period": "one-time",
+    "tag": "New Release",
+    "tagType": "new",
+    "features": [
+      "1000+ UI components",
+      "Figma & Adobe XD files",
+      "Free lifetime updates"
+    ],
+    "icon": "https://img.icons8.com/color/48/design.png"
+  },
+  {
+    "id": 3,
+    "name": "Stock Media Vault",
+    "description": "Access millions of premium royalty-free images, 4K videos, and vectors for your creations.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "Featured",
+    "tagType": "best seller",
+    "features": [
+      "Unlimited daily downloads",
+      "Commercial use license",
+      "No attribution required"
+    ],
+    "icon": "https://img.icons8.com/color/48/stack-of-photos.png"
+  },
+  {
+    "id": 4,
+    "name": "Workflow Automator Pro",
+    "description": "Connect your favorite apps and automate repetitive daily tasks to save up to 20 hours every week.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "Trending",
+    "tagType": "popular",
+    "features": [
+      "Drag & drop logic builder",
+      "100+ App integrations",
+      "Priority 24/7 support"
+    ],
+    "icon": "https://img.icons8.com/color/48/automation.png"
+  },
+  {
+    "id": 5,
+    "name": "Smart Resume Builder",
+    "description": "Create professional, ATS-friendly resumes that instantly stand out to top recruiters and HRs.",
+    "price": 19,
+    "period": "one-time",
+    "tag": "Hot",
+    "tagType": "new",
+    "features": [
+      "50+ Professional templates",
+      "ATS keyword optimization",
+      "Export to PDF/Word format"
+    ],
+    "icon": "https://img.icons8.com/color/48/resume.png"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Scheduler",
+    "description": "Plan, schedule, and analyze all your social media posts across different platforms in one place.",
+    "price": 35,
+    "period": "monthly",
+    "tag": "Essential",
+    "tagType": "popular",
+    "features": [
+      "Multi-platform auto-posting",
+      "Detailed analytics dashboard",
+      "Team collaboration tools"
+    ],
+    "icon": "https://img.icons8.com/color/48/social-network.png"
+  },
+  {
+    "id": 7,
+    "name": "SEO Analyzer Tool",
+    "description": "Audit your website performance, find broken links, and track your keyword rankings easily.",
+    "price": 49,
+    "period": "yearly",
+    "tag": "Top Rated",
+    "tagType": "best seller",
+    "features": [
+      "Deep website audit",
+      "Competitor backlink analysis",
+      "Weekly performance reports"
+    ],
+    "icon": "https://img.icons8.com/color/48/search--v1.png"
+  },
+  {
+    "id": 8,
+    "name": "Cloud Storage Plus",
+    "description": "Securely store, organize, and share your important files from anywhere, on any device.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "Value Pack",
+    "tagType": "new",
+    "features": [
+      "1TB Secure cloud storage",
+      "End-to-end file encryption",
+      "Automated daily backups"
+    ],
+    "icon": "https://img.icons8.com/color/48/cloud-storage.png"
+  },
+  {
+    "id": 9,
+    "name": "Video Editor Pro",
+    "description": "Create stunning, high-quality videos with professional effects and seamless transitions in minutes.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Creator's Choice",
+    "tagType": "popular",
+    "features": [
+      "4K Export support",
+      "Library of transitions",
+      "AI-powered auto captions"
+    ],
+    "icon": "https://img.icons8.com/color/48/video-editing.png"
+  }
+]
