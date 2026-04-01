@@ -46,7 +46,6 @@ export default function App() {
       <Banner />
       <Stats />
       
-      
       <MainContainer 
         cart={cart} 
         handleAddToCart={handleAddToCart} 
