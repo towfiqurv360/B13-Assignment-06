@@ -70,7 +70,7 @@ export default function Products({ products, handleAddToCart, cart }) {
                 <button
                   onClick={() => handleAddToCart(product)}
                   disabled={isAdded}
-                  className={`w-full py-4 rounded-full text-lg font-bold transition-all duration-300 active:scale-95 ${
+                  className={`w-full py-4 rounded-full text-lg font-bold transition-all duration-300 cursor-pointer active:scale-95 ${
                     isAdded
                       ? "bg-gray-100 text-gray-400 cursor-not-allowed"
                       : "bg-gradient-to-r from-[#4F39F6] to-[#9514FA] text-white shadow-lg shadow-purple-200 hover:shadow-purple-300 hover:opacity-95"
